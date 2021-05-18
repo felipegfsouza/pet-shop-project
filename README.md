@@ -1,6 +1,6 @@
 # pet-shop-project
 
-![Preview-Screens](https://user-images.githubusercontent.com/68368843/110578651-09f8ed80-8144-11eb-96df-90a7d54783e1.jpg)
+![Preview-Screens](https://user-images.githubusercontent.com/68368843/118575966-fb3f4000-b75d-11eb-8d29-57dfd38686b7.png)
 
 ## About this Project
 
@@ -44,4 +44,4 @@ Thank you!
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/felipegfsouza/Projeto-tela-login/blob/main/LICENSE) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/felipegfsouza/pet-shop-project/blob/main/license) file for details
