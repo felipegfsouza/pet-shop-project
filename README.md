@@ -33,6 +33,13 @@ $ git clone https://github.com/felipegfsouza/pet-shop-project
 $ cd pet-shop-project
 ```
 
+# Instale as dependências
+$ yarn install
+
+# Rode o servidor
+$ yarn start
+```
+
 ## Contributing
 
 You can send how many PR's do you want, I'll be glad to analyse and accept them! And if you have any question about the project...
