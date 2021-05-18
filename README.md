@@ -33,6 +33,7 @@ $ git clone https://github.com/felipegfsouza/pet-shop-project
 $ cd pet-shop-project
 ```
 
+```
 # Instale as dependências
 $ yarn install
 
