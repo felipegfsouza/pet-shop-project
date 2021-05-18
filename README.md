@@ -2,26 +2,13 @@
 
 ![Preview-Screens](https://user-images.githubusercontent.com/68368843/110578651-09f8ed80-8144-11eb-96df-90a7d54783e1.jpg)
 
-## Tópicos 
-
-[Sobre o Proffy](#sobre-o-proffy)
-
-[Tecnologias](#tecnologias)
-
-[Instalação e uso](#instalação-e-uso)
-
-[Licença](#licença)
-
-
 ## About this Project
 
 The idea of the App is:
 
-_"A simple way to Login in a modern website page"._
+_"A simple way to register an animal"._
 
-**PS:** Login was just the context chosen by me for this project, but all the code inside this app can be reused for any app!
-
-**On the Media True coder creator🤩:** A [review](https://youtube.com/watch?v=piG91X4sV2U) about this app.
+**PS:** Pet shop was just the context chosen by me for this project, but all the code inside this app can be reused for any app!
 
 ## Why?
 
@@ -41,9 +28,9 @@ It's free!
 **Cloning the Repository**
 
 ```
-$ git clone https://github.com/felipegfsouza/Projeto-tela-login
+$ git clone https://github.com/felipegfsouza/pet-shop-project
 
-$ cd Projeto-tela-login
+$ cd pet-shop-project
 ```
 
 ## Contributing
